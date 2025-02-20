@@ -1,0 +1,13 @@
+Figure out the number of cubes of red, green, or blue in a bag from the Elf's game.
+- ID is Game number
+- each set of cubes revealed are separated by semi-colons for each game.
+
+< PART 1 >
+* add up the IDs of the games to get your soution.
+* find which bag is loaded with only 12 red cubes, 13 green cubes, and 14 blue cubes.
+	- if the bag has more than either number of the desired cube count it is invalid
+
+< PART 2 >
+* find the minimum cubes required to play the game.
+* multiply the minimum number of cubes together to obtain the POWER.
+# add all the POWERS of the games together for solution

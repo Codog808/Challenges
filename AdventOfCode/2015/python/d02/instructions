@@ -1,0 +1,10 @@
+# elves need more wrapping paper and has to submit an order to get more
+- they will be given dimensions of the presents needing wrapping paper (l, w, h)
+- each box is a perfect retangular prism
+	- meaning to calculate surface area is (2*l*w + 2*w*h + 2*h*l)
+	- adding a little extra paper (the area of the smallest side)
+
+# Now we need to find how much ribbon of equal width to order...
+- ribbon required is shortest distance around its sides plus its bow.
+	- bow is equal to the cubic feet of volume of the present
+

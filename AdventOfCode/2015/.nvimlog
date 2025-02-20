@@ -1,0 +1,1 @@
+WARN  2024-09-28T09:44:08.498 38    log_path_init:95: Failed to create directory /home/dev/.cache for writing logs: Unknown system error 1

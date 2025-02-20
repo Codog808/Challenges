@@ -1,0 +1,7 @@
+fix the gondola by finding the missing engine part.
+* add up all the part numbers from the engine schematic
+	engine schematic is a visual representation
+	* any number adjacent to a symbol should be included.
+		* Any symbol besides a period.
+
+

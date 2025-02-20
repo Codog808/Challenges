@@ -1,0 +1,14 @@
+Santa wants to convert a physical list into a digital copy.
+
+# Given an input of string literals find teh number of characters of in-memory string.
+	example:
+	"" is 2 total characters but the genuine string contains 0 characters
+	"a", 3 total characters and 1 string character
+	"a\"a", 6 total characters but the string contains 3 characters as the escape (\) allows the following character or character code to exist as a string when it is normally reserved for some other piece of coding language.
+
+	Santa only uses the following escape sequences
+		\\
+		\"
+		\x (plus two hexadecimal characters)
+
+# What is (the number of characters of code for string literals) - (the number of characters in-memory for the values of the strings) in the total given input?

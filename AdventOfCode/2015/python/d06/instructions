@@ -1,0 +1,25 @@
+Part 1
+
+deploy 1M lights in a 1K by 1K grid.
+
+given a light configuration...
+	- Lights are on at the corners of the grid
+	- given coordinate pairs a shape is formed (rectangles or squares)
+	- three options: toggle, 'turn on', 'turn off'
+		- toggle: flips state
+
+
+Either create a 1million sized table
+
+Or save the states of the coordinates defined by the instructions
+	- Can you save a set of dictionaries?
+
+HOW MANY LIGHTS ARE LIT?
+
+# PART 2
+light are configured by level of brightness.
+	turn on increases the birghtness by 1
+	turn off decreases the brightness by 1
+	toggle increases the brightness by 2
+
+WHAT IS THE TOTAL BRIGHTNESS OF ALL LIGHTS COMBINED?

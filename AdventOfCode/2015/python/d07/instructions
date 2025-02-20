@@ -1,0 +1,16 @@
+PART 1
+a wire has an identifier,(some of which are lowercase), and carries a 16-bit signal (0 to 65535)
+a signal is provided by a gate, another wire, or specifically defined.
+a wire can only get information from one source and can provide the signal to multiple destinations
+a gate provides no signal until the inputs have a signal.
+
+instructions provide how ot connect the parts together, x AND y -> z
+	connect x and y to an AND gate and connect the gate's output to z.
+123 -> x
+	signal 123 provided to 'wire x'
+p LSHIFT 2 -> q 
+	means that the value from the 'wire p' is left-shifted by 2
+NOT e -> bitwise 
+	complement of the value from the 'wire e' is provided to the 'wire f'
+
+* What is the signal prvided to "wire a"

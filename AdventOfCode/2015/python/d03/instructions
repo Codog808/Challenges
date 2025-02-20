@@ -1,0 +1,8 @@
+Delivering presents to an infinite two-dimensional grid of houses
+Directions of delivery are a little messed up, how many houses receive at least one present?
+ - '^' go one house north
+ - 'v' go one house south
+ - '<' go one house west
+ - '>' go one house east
+ - Starting at one house initally, count must start at 1 to concur.
+

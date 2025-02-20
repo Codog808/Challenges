@@ -1,0 +1,18 @@
+# Part 1
+find which strings in a file are naughty or nice.
+
+Nice:
+	contains at least three vowels, {aeiou}
+	contains one letter that appears twice in a row
+	does not contain ab, cd, pq, xy
+opposite of nice is naughty, lol.
+
+How many strings are nice?
+
+#Part 2
+
+Nice:
+- it contains a pair of any two letters that appears at least tiwce in the string without overlapping. Like 'xyxy' or 'aabaa'
+- It contains at least one letter which repeats with exactly one letter between them, like 'xyx', 
+abcdefe' (efe), or 'aaa'
+

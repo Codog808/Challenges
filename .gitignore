@@ -1,0 +1,5 @@
+venv/
+*.ovpn
+*.iso
+*.pyc
+__pycache__/

@@ -1,0 +1,13 @@
+Deliver presents to a large apartment
+- can't find the right floor
+- starts at the ground floor (0)
+- '(' means to go up
+- ')' means to go down
+- the building is tall and has a just as deep basement level
+
+part1
+- find the floor that the input would take santa
+
+part2
+- find the position of the character that sends santa to the basement first.
+
